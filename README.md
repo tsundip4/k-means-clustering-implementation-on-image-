@@ -1,4 +1,5 @@
 Overview
+
 This project demonstrates image compression using the K-Means clustering algorithm from the scikit-learn library.
 The technique reduces the number of colors in an image by grouping similar pixel colors into a smaller set of representative colors (clusters).
 
